@@ -16,7 +16,7 @@
 - Запустите сервер `python app.py`
 
 ### Тестирование
-Тестовый `json` запрос можно отправить с помощью [postman](https://www.postman.com/):
+Тестовый `json` запрос можно отправить на `http://127.0.0.1:5000/api/appearence/` с помощью [postman](https://www.postman.com/):
 ```
 {
     "lesson": [1594663500, 1594666800],
